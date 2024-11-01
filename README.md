@@ -142,6 +142,6 @@ Dengan mengikuti tutorial ini, seharusnya kita telah berhasil membuat sistem mon
 
 Proyek ini menunjukkan bahwa dengan IoT, kita bisa memantau kondisi lingkungan dari mana saja, menjadikannya solusi ideal untuk berbagai aplikasi, mulai dari smart home hingga industri. Anda dapat memperluas proyek ini dengan menambahkan sensor lain, mengatur alarm otomatis, atau mengintegrasikannya dengan layanan seperti IFTTT untuk menciptakan aksi otomatis berdasarkan kondisi tertentu.
 
-Kami harap tutorial ini memberikan pemahaman dasar yang kuat bagi Anda untuk mengeksplorasi lebih jauh dan mengembangkan aplikasi IoT sesuai kebutuhan Anda. Selamat mencoba dan terus eksplorasi dunia IoT!
+Saya harap tutorial ini memberikan pemahaman dasar yang kuat bagi Anda untuk mengeksplorasi lebih jauh dan mengembangkan aplikasi IoT sesuai kebutuhan Anda. Selamat mencoba dan terus eksplorasi dunia IoT!
 
 wokwi project: https://wokwi.com/projects/413049560059403265
